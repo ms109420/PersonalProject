@@ -21,10 +21,9 @@
 #### 게시판 글쓰기/수정/삭제
 ![그림1](https://user-images.githubusercontent.com/58906986/157889586-6dd9cf75-abb5-4193-8732-487cbf31c0a9.png)
 
+#
 
 #### 마켓 페이지
 ![그림2](https://user-images.githubusercontent.com/58906986/157889476-62b18170-6294-4e98-b5b7-d038f5febe58.png)
-
-
 
 #
