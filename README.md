@@ -9,7 +9,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" height="40" style="vertical-align:top; margin:4px"/>
-<img src="https://worldvectorlogo.com/logo/react-2" alt="React" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://cdn.worldvectorlogo.com/logo/react-2" alt="React" height="40" style="vertical-align:top; margin:4px"/>
   
 </p>
 
