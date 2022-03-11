@@ -3,10 +3,10 @@
 개인 프로젝트 최종 결과물입니다.  
 
 
-# 기술
+## 기술
 
 
-# 메인
+## 메인
 ![스크린샷(349)](https://user-images.githubusercontent.com/58906986/157879972-e34a87d4-909a-4e6b-b83e-d27d972d02ec.png)
 
 
