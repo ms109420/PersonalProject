@@ -4,7 +4,13 @@
 
 
 ## 기술
-
+<p align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://worldvectorlogo.com/logo/react-2" alt="Python" height="40" style="vertical-align:top; margin:4px"/>
+</p>
 
 ## 메인
 ![스크린샷(349)](https://user-images.githubusercontent.com/58906986/157879972-e34a87d4-909a-4e6b-b83e-d27d972d02ec.png)
